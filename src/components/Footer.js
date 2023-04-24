@@ -20,14 +20,14 @@ const Footer = () => {
 
             </div>
             <p>
-              <a href="mailto:contact@pepewife.io">contact@pepelonmars.com </a>
+              <a href="mailto:contact@pepelonmars.com">contact@pepelonmars.com </a>
             </p>
             <p>
-              $PEPEWIFE PepelonMars coin has no association with Matt Furie or his creation Pepe the Frog. This is a fan token and community driven project
+              $PepelonMars PepelonMars coin has no association with Matt Furie or his creation Pepe the Frog. This is a fan token and community driven project
 
             </p>
             <p>
-              $PEPEWIFE is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only
+              $PepelonMars is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only
             </p>
           </div>
         </div>
