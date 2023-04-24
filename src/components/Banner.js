@@ -35,12 +35,12 @@ const Banner = ({ timeline, ease }) => {
 
             <div className="banner-btn">
               <div className="btn-main">
-                <a target="_blank" href="https://app.uniswap.org/#/swap?outputCurrency=0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87">
+                <a target="_blank" href="https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0x850c7740ff9e4026a1e7ec6578acdfa1ca156277">
                   <div>BUY ON NOW </div>
                 </a>
               </div>
               <div className="btn-main">
-                <a target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87">
+                <a target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0xdfab4641d6af24efb2fc0949d42556306c35d488">
                   <div>CHART </div>
                 </a>
               </div>
