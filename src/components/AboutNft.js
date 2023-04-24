@@ -47,9 +47,9 @@ const AboutNft = () => {
 
               <h2>Who is PepelonMars? </h2>
 
-              <p> $PEPELON PepelonMars coin has no association with Matt Furie or his creation Pepe the Frog. This is a fan token and community driven project</p>
+              <p> I am Pepelon. Pepelon Mars. Join me and together we will reach the stars.</p>
 
-              <p> $PEPELON is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only</p>
+
 
 
 
