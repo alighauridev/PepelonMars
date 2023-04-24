@@ -14,7 +14,7 @@ export const nav = [
 
   {
     name: "About",
-    path: "#collection",
+    path: "#about",
     ref: "nav4",
   },
   {
@@ -22,16 +22,7 @@ export const nav = [
     path: "#foooter",
     ref: "nav4",
   },
-  {
-    name: "Roadmap",
-    path: "#roadmap",
-    ref: "nav4",
-  },
-  {
-    name: "Tokenomics",
-    path: "#tokenomics",
-    ref: "nav4",
-  },
+
 
 ];
 
