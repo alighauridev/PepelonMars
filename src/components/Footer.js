@@ -20,7 +20,7 @@ const Footer = () => {
 
             </div>
             <p>
-              <a href="mailto:contact@pepewife.io">contact@pepewife.io</a>
+              <a href="mailto:contact@pepewife.io">contact@pepelonmars.com </a>
             </p>
             <p>
               $PEPEWIFE PepelonMars coin has no association with Matt Furie or his creation Pepe the Frog. This is a fan token and community driven project
