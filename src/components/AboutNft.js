@@ -45,16 +45,16 @@ const AboutNft = () => {
             </div>
             <div className="about-h">
 
-              <h2>Who is PepelonMars? </h2>
+              <h2>Who is PumpKingPepe? </h2>
 
-              <p> I am Pepelon. Pepelon Mars. Join me and together we will reach the stars.</p>
+              <p> I am PumpKingPepe. Join me and together we will reach the stars.</p>
 
 
 
 
 
               <div className="join-btn">
-                <a href="https://t.me/PepelonmarsEth" target="_blank">
+                <a href="https://t.me/PumpKingPepe" target="_blank">
                   <div className="btn">
                     <div className="text">Join Now</div>
                   </div>
@@ -66,16 +66,14 @@ const AboutNft = () => {
 
             <div className="about-h">
 
-              <h2>Who is PepelonMars? </h2>
+              <h2>Who is Pump King Pepe? </h2>
 
-              <p> I have to be honest; Pepe isn't the attractive frog that everyone makes him out to be. For five years, we've been living in close quarters, sharing the same lily pads and insects. However, one day he decided to become the hottest meme in the crypto world. I gave him my blessing, but reminded him to come home at a decent hour.</p>
-
-              <p>  You can imagine my shock when, just three days later, I heard that he was partying it up in Vegas with some lady, while I was busy cooking up his favorite dish of dragonflies. Pepe, you may have found success first, but I'm not one to back down. I won't let you forget about me that easily. Let's see who comes out on top in this game! </p>
+              <p> I am PumpKingPepe. Join me and together we will reach the stars.</p>
 
 
 
               <div className="join-btn">
-                <a href="https://t.me/PepelonmarsEth" target="_blank">
+                <a href="https://t.me/PumpKingPepe" target="_blank">
                   <div className="btn">
                     <div className="text">Join Now</div>
                   </div>

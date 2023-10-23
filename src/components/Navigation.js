@@ -60,7 +60,7 @@ const Navigation = ({ }) => {
           <div className="container">
             <div className="nav__grid">
               <div className="logo">
-                <a href="https://t.me/PepelonmarsEth">
+                <a href="https://t.me/PumpKingPepe">
                   <img
                     src={
                       img1
@@ -100,7 +100,7 @@ const Navigation = ({ }) => {
                 </div> */}
 
                 <div className="join-btn">
-                  <a href="https://t.me/PepelonmarsEth" target="_blank">
+                  <a href="https://t.me/PumpKingPepe" target="_blank">
                     <div className="btn">
                       <div className="text">Join Now</div>
                     </div>
@@ -133,9 +133,7 @@ const Navigation = ({ }) => {
             <li>
               <a href="#about">ABOUT</a>
             </li>
-            <li>
-              <a href="#roadmap">Roadmap</a>
-            </li>
+
             <li>
               <a href="#foooter">Contact</a>
             </li>

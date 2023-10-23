@@ -48,7 +48,7 @@ const data2 = [
   },
 ];
 const list = [
-  "Token name: PepelonMars",
+  "Token name: PumpKingPepe",
   "Ticker name: $PEPEWIFE",
   "Total supply: 420,690,000,000,000 (420,690B)",
   "CHAIN: ETH (ETHEREUM)",

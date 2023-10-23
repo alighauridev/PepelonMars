@@ -57,7 +57,7 @@ export const roadmap = [
     id: "03",
     head: "Mobile App Development and Expansion",
     points: [
-      "PepelonMars themed merch, % revenues to $pepewife buy and burn",
+      "PumpKingPepe themed merch, % revenues to $pepewife buy and burn",
       "Pepe Academy: details tba",
       "Pepe Tools: details tba",
       "T1 Exchange Listings 100,000+ holders",
